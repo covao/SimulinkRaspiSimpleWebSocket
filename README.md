@@ -1,4 +1,5 @@
-# Simulink-Raspberry Pi -  Simple Web Socket Example
+# Simulink-Raspberry Pi 
+# Simple Web Socket Example
 Web-based UI example using WebSocket+P5js .  
 
 ![SimulinkRaspoWebSocketDemo](img/simulink_raspi_websocket.gif)
