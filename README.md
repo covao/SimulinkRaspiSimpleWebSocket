@@ -4,7 +4,7 @@ Web-based UI example using WebSocket+P5js .
 
 ![SimulinkRaspoWebSocketDemo](img/simulink_raspi_websocket.gif)
 
-## Requirements
+## Requires
 ### MATLAB/Simulink
 - MATLAB 2019B or later
 - Simulink
