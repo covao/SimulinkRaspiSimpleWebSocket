@@ -12,5 +12,5 @@ Web-based UI example using WebSocket+P5js .
 - Simulink Support Package for Raspberry Pi Hardware
 ### Hardware
 - Raspberry Pi ([Supported Hardware](https://jp.mathworks.com/hardware-support/raspberry-pi-simulink.html))
-### Usage
+### Reference
 - p5.js Javascript library (https://p5js.org/)
